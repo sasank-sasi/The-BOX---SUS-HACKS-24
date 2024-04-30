@@ -60,4 +60,4 @@ We are a team of passionate developers and problem-solvers who are dedicated to 
 
 This project is licensed under the MIT License (https://opensource.org/license/mit).
 
-We are confident that this comprehensive and well-structured README will effectively showcase your project's merits, celebrate your SysHacks'24 victory, and attract the interest of the developer community.
+We are confident that this comprehensive and well-structured README will effectively showcase your project's merits, celebrate your SUS HACKS'24 victory, and attract the interest of the developer community.
