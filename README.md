@@ -51,7 +51,7 @@ We are thrilled to announce that our innovative solution, "Team DEDSEC - Optimal
 
 We are a team of passionate developers and problem-solvers who are dedicated to creating innovative solutions. Our team members include:
 
-* Sasi - core ML and DL dev
+* Sasi - Core ML and DL Dev
 * Vinod - ML and Flutter Dev
 * Rahaman - UI/UX designer and Data analyst
 * Siddu - Full stack Developer.
